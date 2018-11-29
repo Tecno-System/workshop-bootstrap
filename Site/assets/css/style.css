@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.banner {
+  min-height: 500px;
+  background-color: #d67086;
+}
+
+.clients img {
+  filter: grayscale(2);
+  max-width: 150px;
+}
+
+.btn-pink {
+  background-color: #d67086;
+  color: #fff;
+}
+
+.contact {
+  background-color: #d67086;
+}
