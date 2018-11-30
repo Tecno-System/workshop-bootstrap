@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="167.06731mm"
+   height="34.521217mm"
+   viewBox="0 0 167.06731 34.521217"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="695.59088"
+     inkscape:cy="91.013158"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.693089,-114.95816)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.14465332px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77861637"
+       x="75.549042"
+       y="143.41032"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="75.549042"
+         y="143.41032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;stroke-width:0.77861637">Workers</tspan></text>
+    <g
+       id="g825"
+       transform="matrix(0.39466282,0,0,0.39466282,73.439078,86.443819)"
+       style="fill:none;stroke:#d67086;stroke-width:2.52113938;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         transform="rotate(2.2756325,-89.958329,106.5)"
+         inkscape:transform-center-y="12.564325"
+         inkscape:transform-center-x="0.12748108"
+         d="M -87.690471,157.14881 -134.95541,83.139616 -47.2291,79.211573 Z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.5732476"
+         sodipodi:arg1="1.5260501"
+         sodipodi:r2="25.349779"
+         sodipodi:r1="50.699558"
+         sodipodi:cy="106.5"
+         sodipodi:cx="-89.958328"
+         sodipodi:sides="3"
+         id="path819"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#d67086;stroke-width:2.52113938;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#d67086;stroke-width:2.52113938;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path821"
+         sodipodi:sides="3"
+         sodipodi:cx="-89.958328"
+         sodipodi:cy="106.5"
+         sodipodi:r1="50.699558"
+         sodipodi:r2="25.349779"
+         sodipodi:arg1="1.5260501"
+         sodipodi:arg2="2.5732476"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M -87.690471,157.14881 -134.95541,83.139616 -47.2291,79.211573 Z"
+         inkscape:transform-center-x="0.12748108"
+         inkscape:transform-center-y="12.564325"
+         transform="rotate(2.2756325,112.94801,928.73384)" />
+    </g>
+  </g>
+</svg>

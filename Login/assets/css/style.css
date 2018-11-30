@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+  height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.btn-pink {
+  background-color: #d67086;
+  color: #fff;
+}
